@@ -11,5 +11,5 @@ structure, that is then formatted into an OFX file.
 
 .. _ofxstatement: https://github.com/kedder/ofxstatement
 
-The plugin has been tested against files named `Rechnung_DD.MM.YYYY_***********.pdf`.
+The plugin has been tested against files named ``Rechnung_DD.MM.YYYY_***********.pdf``.
 So far it only works for single-page PDFs. This will be fixed in a few weeks.
